@@ -225,6 +225,7 @@ accountsUIBootstrap3.setLanguage('ja'); // for Japanese
 accountsUIBootstrap3.setLanguage('he'); // for Hebrew
 accountsUIBootstrap3.setLanguage('sv'); // for Swedish
 accountsUIBootstrap3.setLanguage('ua'); // for Ukrainian
+accountsUIBootstrap3.setLanguage('vi'); // for Vietnamese
 ```
 
 If you want to implement your own language, use the `map` function like so:
